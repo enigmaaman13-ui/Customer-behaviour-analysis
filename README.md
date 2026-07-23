@@ -6,7 +6,7 @@ An end-to-end data analytics project exploring transactional data across 3,900 c
 
 ## 📊 Interactive Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](dashboard.png)
+![Customer Shopping Behavior Dashboard](Dashboard.png)
 
 ---
 
