@@ -1,12 +1,12 @@
 # 🛒 Customer Shopping Behavior Analysis
 
-An end-to-end data analytics project exploring transactional data across 3,900 customer purchases[cite: 1]. This project utilizes **Python (Pandas)** for data cleaning and EDA[cite: 1], **PostgreSQL** for database management and business query execution[cite: 1], and **Power BI** for interactive visual reporting[cite: 1].
+An end-to-end data analytics project exploring transactional data across 3,900 customer purchases[cite: 1]. This project utilizes **Python (Pandas)** for data cleaning and EDA[cite: 1], **MySQL** for database management and business query execution[cite: 1], and **Power BI** for interactive visual reporting[cite: 1].
 
 ---
 
 ## 📊 Interactive Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](Dashboard.png)
+![Customer Shopping Behavior Dashboard](Dashboard_new.png)
 
 ---
 
